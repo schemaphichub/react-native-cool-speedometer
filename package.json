@@ -31,6 +31,7 @@
   "author": "Lucas Said",
   "license": "ISC",
   "homepage": "https://github.com/lucassaid/react-native-cool-speedometer#readme",
+  "peerDependencies": { "react-native-svg": ">=13.9.0 <16.0.0" },
   "devDependencies": {
     "@types/react": "^17.0.43",
     "@types/react-native": "^0.67.3"
